@@ -1,1 +1,1 @@
-Seat Counter-Verilog to count the number of seats occupied.
+Seat Counter-Verilog code to count the number of seats occupied.
